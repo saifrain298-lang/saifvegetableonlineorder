@@ -1,0 +1,22 @@
+{
+  "name": "saif-vegetable",
+  "version": "1.0.0",
+  "description": "Saif Vegetable - Fresh farm produce e-commerce and inventory platform for Mumbai",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "vegetable",
+    "ecommerce",
+    "mumbai",
+    "inventory",
+    "pnl"
+  ],
+  "author": "Saif Hakim Rain",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode": "^1.5.4"
+  }
+}

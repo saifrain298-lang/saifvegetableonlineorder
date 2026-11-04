@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+Allow: /images/
+Allow: /saif-vegetable.apk
+Disallow: /api/auth/
+Disallow: /saif-vegetable-website.zip
+Disallow: /__aistudio_*
+
+User-agent: Googlebot
+Allow: /
+Allow: /images/
+Allow: /saif-vegetable.apk
+Disallow: /api/auth/
+Disallow: /saif-vegetable-website.zip
+
+User-agent: Googlebot-Image
+Allow: /images/
+
+Sitemap: https://saifvegetableonline.we24.in/sitemap.xml
+Sitemap: https://ais-dev-y2nw5fuzaehiyzh3k2sxfw-712942562588.asia-east1.run.app/sitemap.xml

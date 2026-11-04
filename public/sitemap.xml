@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Primary Storefront Homepage -->
+  <url>
+    <loc>https://saifvegetableonline.we24.in/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_broccoli.png</image:loc>
+      <image:title>Saif Vegetable - Broccoli (ब्रोकोली)</image:title>
+      <image:caption>Fresh green broccoli hand-sorted daily from Vashi Mandi</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_yellow_capsicum.png</image:loc>
+      <image:title>Saif Vegetable - Yellow Capsicum (पीली शिमला मिर्च)</image:title>
+      <image:caption>Crisp yellow bell peppers in Mumbai</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_green_capsicum.png</image:loc>
+      <image:title>Saif Vegetable - Green Capsicum (हरी शिमला मिर्च)</image:title>
+      <image:caption>Farm fresh green shimla mirch</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_red_capsicum.png</image:loc>
+      <image:title>Saif Vegetable - Red Capsicum (लाल शिमला मिर्च)</image:title>
+      <image:caption>Sweet red bell peppers Mumbai</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_lettuce.png</image:loc>
+      <image:title>Saif Vegetable - Lettuce (सलाद पत्ता)</image:title>
+      <image:caption>Crispy salad iceberg lettuce</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_curry_leaves.png</image:loc>
+      <image:title>Saif Vegetable - Curry Leaves (करी पत्ता)</image:title>
+      <image:caption>Aromatic fresh kadi patta</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_baby_corn.png</image:loc>
+      <image:title>Saif Vegetable - Baby Corn (बेबी कॉर्न)</image:title>
+      <image:caption>Tender sweet golden baby corn</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_potato.png</image:loc>
+      <image:title>Saif Vegetable - Potato (आलू)</image:title>
+      <image:caption>High quality fresh table potatoes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_onion.png</image:loc>
+      <image:title>Saif Vegetable - Onion (प्याज)</image:title>
+      <image:caption>Fresh Nashik pink red onions Mumbai</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_tomato.png</image:loc>
+      <image:title>Saif Vegetable - Tomato (टमाटर)</image:title>
+      <image:caption>Plump ripe juicy fresh red tomatoes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_brinjal.png</image:loc>
+      <image:title>Saif Vegetable - Brinjal (बैंगन)</image:title>
+      <image:caption>Glossy purple bharta and small brinjal</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_lady_finger.png</image:loc>
+      <image:title>Saif Vegetable - Lady Finger (भिंडी)</image:title>
+      <image:caption>Tender fresh green bhindi okra</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_cabbage.png</image:loc>
+      <image:title>Saif Vegetable - Cabbage (पत्ता गोभी)</image:title>
+      <image:caption>Firm crunchy green cabbage patta gobhi</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_cauliflower.png</image:loc>
+      <image:title>Saif Vegetable - Cauliflower (फूल गोभी)</image:title>
+      <image:caption>Crisp white fresh cauliflower phool gobhi</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_spinach.png</image:loc>
+      <image:title>Saif Vegetable - Spinach (पालक)</image:title>
+      <image:caption>Iron-rich fresh green desi palak spinach</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_fenugreek_methi.png</image:loc>
+      <image:title>Saif Vegetable - Fenugreek Methi (मेथी)</image:title>
+      <image:caption>Fragrant leafy green fresh methi</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_coriander.png</image:loc>
+      <image:title>Saif Vegetable - Coriander (धनिया)</image:title>
+      <image:caption>Fresh aromatic green kothimbir dhaniya</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_green_chilli.png</image:loc>
+      <image:title>Saif Vegetable - Green Chilli (हरी मिर्च)</image:title>
+      <image:caption>Spicy fresh green chillies</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_ginger.png</image:loc>
+      <image:title>Saif Vegetable - Ginger (अदरक)</image:title>
+      <image:caption>Clean washed fresh adrak ginger</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_garlic.png</image:loc>
+      <image:title>Saif Vegetable - Garlic (लहसुन)</image:title>
+      <image:caption>Pungent white garlic cloves lasun</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_carrot.png</image:loc>
+      <image:title>Saif Vegetable - Carrot (गाजर)</image:title>
+      <image:caption>Sweet orange and red crunchy carrots</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_beetroot.png</image:loc>
+      <image:title>Saif Vegetable - Beetroot (चुकंदर)</image:title>
+      <image:caption>Nutritious sweet dark red beetroot</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_radish.png</image:loc>
+      <image:title>Saif Vegetable - Radish (मूली)</image:title>
+      <image:caption>Crisp white fresh mooli radish</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_cucumber.png</image:loc>
+      <image:title>Saif Vegetable - Cucumber (खीरा)</image:title>
+      <image:caption>Cool hydrating salad kheera cucumber</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_bottle_gourd.png</image:loc>
+      <image:title>Saif Vegetable - Bottle Gourd (लौकी)</image:title>
+      <image:caption>Tender fresh lauki dudhi bottle gourd</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_bitter_gourd.png</image:loc>
+      <image:title>Saif Vegetable - Bitter Gourd (करेला)</image:title>
+      <image:caption>Fresh green karela bitter gourd</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_ridge_gourd.png</image:loc>
+      <image:title>Saif Vegetable - Ridge Gourd (तुरई)</image:title>
+      <image:caption>Tender ribbed turai ridge gourd</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_pointed_gourd.png</image:loc>
+      <image:title>Saif Vegetable - Pointed Gourd (परवल)</image:title>
+      <image:caption>Fresh green parwal pointed gourd</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_pumpkin.png</image:loc>
+      <image:title>Saif Vegetable - Pumpkin (कद्दू)</image:title>
+      <image:caption>Sweet yellow golden kaddu pumpkin</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_green_peas.png</image:loc>
+      <image:title>Saif Vegetable - Green Peas (मटर)</image:title>
+      <image:caption>Sweet fresh green matar peas in pods</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_french_beans.png</image:loc>
+      <image:title>Saif Vegetable - French Beans (फ्रेंच बीन्स)</image:title>
+      <image:caption>Crisp slender green french beans</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_cluster_beans.png</image:loc>
+      <image:title>Saif Vegetable - Cluster Beans (ग्वार फली)</image:title>
+      <image:caption>Tender fresh gawar phali</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_flat_beans.png</image:loc>
+      <image:title>Saif Vegetable - Flat Beans (सेम फली)</image:title>
+      <image:caption>Fresh broad flat beans sem phali</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_drumstick.png</image:loc>
+      <image:title>Saif Vegetable - Drumstick (सहजन)</image:title>
+      <image:caption>Fresh tender moringa drumsticks</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_taro_root.png</image:loc>
+      <image:title>Saif Vegetable - Taro Root (अरबी)</image:title>
+      <image:caption>Fresh cleaned arbi taro root</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_sweet_potato.png</image:loc>
+      <image:title>Saif Vegetable - Sweet Potato (शकरकंद)</image:title>
+      <image:caption>Nutritious sweet shakarkand</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_elephant_foot_yam.png</image:loc>
+      <image:title>Saif Vegetable - Elephant Foot Yam (जिमीकंद)</image:title>
+      <image:caption>Fresh suran elephant foot yam</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_tinda.png</image:loc>
+      <image:title>Saif Vegetable - Tinda (टिंडा)</image:title>
+      <image:caption>Fresh round green tinda baby gourd</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://saifvegetableonline.we24.in/images/veg_sprout_moong.png</image:loc>
+      <image:title>Saif Vegetable - Sprout Moong (अंकुरित मूंग)</image:title>
+      <image:caption>Protein packed fresh moong sprouts</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Quick Order Shopping Catalog -->
+  <url>
+    <loc>https://saifvegetableonline.we24.in/order</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- Verified Business Profile & Vidyavihar Store Location -->
+  <url>
+    <loc>https://saifvegetableonline.we24.in/about</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Mumbai City & Vidyavihar Delivery Area Service Page -->
+  <url>
+    <loc>https://saifvegetableonline.we24.in/mumbai</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Direct Android Mobile App Download -->
+  <url>
+    <loc>https://saifvegetableonline.we24.in/apk</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Mandi Wholesale & Commercial Restaurant Supply Portal -->
+  <url>
+    <loc>https://saifvegetableonline.we24.in/wholesale</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Direct Android APK Package -->
+  <url>
+    <loc>https://saifvegetableonline.we24.in/saif-vegetable.apk</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+</urlset>

@@ -1,0 +1,6 @@
+{
+  "name": "Saif Vegetable",
+  "description": "Saif Vegetable - Fresh, high-quality vegetable ordering platform in Mumbai",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
